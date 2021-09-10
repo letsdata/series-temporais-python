@@ -4,4 +4,8 @@ Este é o repositório do código do vídeo Séries temporais com Python do Yout
 
 Link para o vídeo: https://youtu.be/1m9u10eJ3Mk
 
-Neste vídeo você aprender o que são séries temporais e quais são os principais métodos tradicionais e de machine learning para prever valores futuros.
+Ao final deste vídeo você será capaz de:
+☑️ Descrever o que é uma série temporal e quais suas principais aplicações em problemas reais.
+☑️ Descrever o que é forecasting e enumerar os principais algoritmos para previsão em séries temporais.
+☑️ Explicar as principais diferenças entre métodos de forecasting tradicionais e de machine learning.
+☑️Fazer um forecasting simples utilizando ARIMA e XGBoost em Python.
